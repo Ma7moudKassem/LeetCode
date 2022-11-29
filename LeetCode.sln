@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1920. Build Array from Permutation", "LeetCode\LeetCode.vcxproj", "{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1929. Concatenation of Array", "1929. Concatenation of Array\1929. Concatenation of Array.vcxproj", "{F0674AA9-1AF1-4278-9862-85499F816E8E}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2047. Number of Valid Words in a Sentence", "2047. Number of Valid Words in a Sentence\2047. Number of Valid Words in a Sentence.vcxproj", "{6053F2DB-B917-4F02-A604-46110CD3B054}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1920. Build Array from Permutation", "1920. Build Array from Permutation\1920. Build Array from Permutation.vcxproj", "{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,18 +19,6 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|Any CPU.ActiveCfg = Debug|x64
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|Any CPU.Build.0 = Debug|x64
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|x64.ActiveCfg = Debug|x64
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|x64.Build.0 = Debug|x64
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|x86.ActiveCfg = Debug|Win32
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|x86.Build.0 = Debug|Win32
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|Any CPU.ActiveCfg = Release|x64
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|Any CPU.Build.0 = Release|x64
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|x64.ActiveCfg = Release|x64
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|x64.Build.0 = Release|x64
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|x86.ActiveCfg = Release|Win32
-		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|x86.Build.0 = Release|Win32
 		{F0674AA9-1AF1-4278-9862-85499F816E8E}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{F0674AA9-1AF1-4278-9862-85499F816E8E}.Debug|Any CPU.Build.0 = Debug|x64
 		{F0674AA9-1AF1-4278-9862-85499F816E8E}.Debug|x64.ActiveCfg = Debug|x64
@@ -55,6 +43,18 @@ Global
 		{6053F2DB-B917-4F02-A604-46110CD3B054}.Release|x64.Build.0 = Release|x64
 		{6053F2DB-B917-4F02-A604-46110CD3B054}.Release|x86.ActiveCfg = Release|Win32
 		{6053F2DB-B917-4F02-A604-46110CD3B054}.Release|x86.Build.0 = Release|Win32
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|Any CPU.Build.0 = Debug|x64
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|x64.ActiveCfg = Debug|x64
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|x64.Build.0 = Debug|x64
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Debug|x86.Build.0 = Debug|Win32
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|Any CPU.ActiveCfg = Release|x64
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|Any CPU.Build.0 = Release|x64
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|x64.ActiveCfg = Release|x64
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|x64.Build.0 = Release|x64
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|x86.ActiveCfg = Release|Win32
+		{079D0031-4DE2-4D55-A84B-FAA0EC18AD7A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
