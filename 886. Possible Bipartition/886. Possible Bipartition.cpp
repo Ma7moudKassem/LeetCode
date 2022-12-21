@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-
 using namespace std;
 
 vector<int> group;
@@ -21,6 +20,7 @@ bool possibleBipartition(int n, vector<vector<int>>& dislikes)
 		if (group[i] == -1 && !dfs(i, 0))
 			return false;
 	}
+	return true;
 }
 
 bool dfs(int node, int g)

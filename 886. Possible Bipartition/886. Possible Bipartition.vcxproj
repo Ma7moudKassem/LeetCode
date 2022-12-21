@@ -24,6 +24,7 @@
     <ProjectGuid>{302c5bfb-8d9d-4bac-8f9b-4972d486aa0f}</ProjectGuid>
     <RootNamespace>My886PossibleBipartition</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>886. Possible Bipartition (Graph)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
