@@ -31,7 +31,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "771. Jewels and Stones", "7
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1365. How Many Numbers Are Smaller Than the Current Number", "1365. How Many Numbers Are Smaller Than the Current Number\1365. How Many Numbers Are Smaller Than the Current Number.vcxproj", "{7D4BEB35-3606-4B4A-AC2D-F9E11CC4380C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "841. Keys and Rooms", "841. Keys and Rooms\841. Keys and Rooms.csproj", "{E8CE43D5-C498-4154-9FF2-8809F85BE5A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "841. Keys and Rooms", "841. Keys and Rooms\841. Keys and Rooms.csproj", "{E8CE43D5-C498-4154-9FF2-8809F85BE5A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "886. Possible Bipartition", "886. Possible Bipartition\886. Possible Bipartition.vcxproj", "{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -223,6 +225,18 @@ Global
 		{E8CE43D5-C498-4154-9FF2-8809F85BE5A1}.Release|x64.Build.0 = Release|Any CPU
 		{E8CE43D5-C498-4154-9FF2-8809F85BE5A1}.Release|x86.ActiveCfg = Release|Any CPU
 		{E8CE43D5-C498-4154-9FF2-8809F85BE5A1}.Release|x86.Build.0 = Release|Any CPU
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Debug|Any CPU.Build.0 = Debug|x64
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Debug|x64.ActiveCfg = Debug|x64
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Debug|x64.Build.0 = Debug|x64
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Debug|x86.ActiveCfg = Debug|Win32
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Debug|x86.Build.0 = Debug|Win32
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Release|Any CPU.ActiveCfg = Release|x64
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Release|Any CPU.Build.0 = Release|x64
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Release|x64.ActiveCfg = Release|x64
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Release|x64.Build.0 = Release|x64
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Release|x86.ActiveCfg = Release|Win32
+		{302C5BFB-8D9D-4BAC-8F9B-4972D486AA0F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
