@@ -7,17 +7,12 @@ string defangIPaddr(string address) {
 	for (auto n : address)
 	{
 		if (n == '.')
-		{
-			result.push_back('[');
-			result.push_back('.');
-			result.push_back(']');
-		}
+			result += "[.]";
 		else
-			result.push_back(n);
+			result += n;
 	}
 	return result;
 }
-
 int main()
 {
 	cout << defangIPaddr("1.1.1.1");
