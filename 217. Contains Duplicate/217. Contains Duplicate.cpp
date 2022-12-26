@@ -18,6 +18,7 @@ bool containsDuplicate(vector<int>& nums)
 
 		visited[nums[i]] = i;
 	}
+
 	return false;
 }
 int main()
