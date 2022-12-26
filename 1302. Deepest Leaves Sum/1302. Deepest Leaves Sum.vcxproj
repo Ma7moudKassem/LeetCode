@@ -24,6 +24,7 @@
     <ProjectGuid>{f140a1b2-f498-4464-97bd-1d1d0dcd8195}</ProjectGuid>
     <RootNamespace>My1302DeepestLeavesSum</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>1302. Deepest Leaves Sum (Tree)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
