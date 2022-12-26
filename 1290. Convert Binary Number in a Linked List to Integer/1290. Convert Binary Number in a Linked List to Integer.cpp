@@ -17,6 +17,7 @@ int getDecimalValue(ListNode* head)
 		value = value * 2 + head->next->val;
 		head = head->next;
 	}
+
 	return value;
 }
 
