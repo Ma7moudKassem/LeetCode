@@ -11,8 +11,7 @@ vector<int> BuildArray(vector<int>& nums)
 {
 	vector<int> ans;
 	for (int i = 0; i < ans.size(); i++)
-	{
 		ans.push_back(nums[nums[i]]);
-	}
+	
 	return ans;
 }
