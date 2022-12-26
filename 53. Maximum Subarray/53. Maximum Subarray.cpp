@@ -51,7 +51,8 @@ int maxSubArray(vector<int>& nums)
 	int leader = nums[0];
 	int curr_sum = nums[0];
 
-	for (int i = 1; i < nums.size(); i++) {
+	for (int i = 1; i < nums.size(); i++) 
+	{
 		curr_sum = max(nums[i], nums[i] + curr_sum);
 		leader = max(leader, curr_sum);
 	}
