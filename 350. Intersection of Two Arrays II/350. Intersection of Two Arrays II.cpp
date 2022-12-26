@@ -20,6 +20,7 @@ vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
 		}
 		i++;
 	}
+
 	return intersectedArr;
 }
 
