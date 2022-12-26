@@ -62,6 +62,7 @@ int countValidWords(string sentence)
 		if (isValid(word))
 			count++;
 	}
+
 	return count;
 }
 
