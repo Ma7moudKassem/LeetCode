@@ -55,6 +55,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "278. First Bad Version", "2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35. Search Insert Position", "35. Search Insert Position\35. Search Insert Position.vcxproj", "{0A526BEC-6281-46B2-ABA4-084B6A5FACFF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "977. Squares of a Sorted Array", "977. Squares of a Sorted Array\977. Squares of a Sorted Array.vcxproj", "{AB7CE208-5550-432B-A268-BF025AB1B2E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -377,6 +379,18 @@ Global
 		{0A526BEC-6281-46B2-ABA4-084B6A5FACFF}.Release|x64.Build.0 = Release|x64
 		{0A526BEC-6281-46B2-ABA4-084B6A5FACFF}.Release|x86.ActiveCfg = Release|Win32
 		{0A526BEC-6281-46B2-ABA4-084B6A5FACFF}.Release|x86.Build.0 = Release|Win32
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Debug|Any CPU.Build.0 = Debug|x64
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Debug|x64.ActiveCfg = Debug|x64
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Debug|x64.Build.0 = Debug|x64
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Debug|x86.Build.0 = Debug|Win32
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Release|Any CPU.ActiveCfg = Release|x64
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Release|Any CPU.Build.0 = Release|x64
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Release|x64.ActiveCfg = Release|x64
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Release|x64.Build.0 = Release|x64
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Release|x86.ActiveCfg = Release|Win32
+		{AB7CE208-5550-432B-A268-BF025AB1B2E7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
