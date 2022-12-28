@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "189. Rotate Array", "189. R
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "283. Move Zeroes", "283. Move Zeroes\283. Move Zeroes.vcxproj", "{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "167. Two Sum II - Input Array Is Sorted", "167. Two Sum II - Input Array Is Sorted\167. Two Sum II - Input Array Is Sorted.vcxproj", "{CCF468EB-DA76-480B-BB5F-3DF43647B55B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -419,6 +421,18 @@ Global
 		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Release|x64.Build.0 = Release|x64
 		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Release|x86.ActiveCfg = Release|Win32
 		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Release|x86.Build.0 = Release|Win32
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Debug|Any CPU.Build.0 = Debug|x64
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Debug|x64.ActiveCfg = Debug|x64
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Debug|x64.Build.0 = Debug|x64
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Debug|x86.ActiveCfg = Debug|Win32
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Debug|x86.Build.0 = Debug|Win32
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Release|Any CPU.ActiveCfg = Release|x64
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Release|Any CPU.Build.0 = Release|x64
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Release|x64.ActiveCfg = Release|x64
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Release|x64.Build.0 = Release|x64
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Release|x86.ActiveCfg = Release|Win32
+		{CCF468EB-DA76-480B-BB5F-3DF43647B55B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
