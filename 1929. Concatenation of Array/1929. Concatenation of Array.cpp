@@ -1,9 +1,8 @@
 #include <iostream>
 #include <vector>
+
 using namespace std;
-int main()
-{
-}
+
 vector<int> getConcatenation(vector<int>& nums)
 {
 	vector<int> ans;
@@ -13,4 +12,8 @@ vector<int> getConcatenation(vector<int>& nums)
 		ans.push_back(nums[i]);
 
 	return ans;
+}
+
+int main()
+{
 }
