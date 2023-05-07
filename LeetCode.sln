@@ -91,7 +91,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1763. Longest Nice Substrin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{6EB3D79E-1DD9-4E4D-B24E-F2A9C631B682}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58. Length of Last Word", "58. Length of Last Word\58. Length of Last Word.csproj", "{B4D30B55-C386-43B3-B526-5EC9946B7E68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "58. Length of Last Word", "58. Length of Last Word\58. Length of Last Word.csproj", "{B4D30B55-C386-43B3-B526-5EC9946B7E68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{F16DC662-3656-44F9-B43E-CA8A1E683B7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -631,6 +633,18 @@ Global
 		{B4D30B55-C386-43B3-B526-5EC9946B7E68}.Release|x64.Build.0 = Release|Any CPU
 		{B4D30B55-C386-43B3-B526-5EC9946B7E68}.Release|x86.ActiveCfg = Release|Any CPU
 		{B4D30B55-C386-43B3-B526-5EC9946B7E68}.Release|x86.Build.0 = Release|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Debug|x64.Build.0 = Debug|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Debug|x86.Build.0 = Debug|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Release|x64.ActiveCfg = Release|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Release|x64.Build.0 = Release|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Release|x86.ActiveCfg = Release|Any CPU
+		{F16DC662-3656-44F9-B43E-CA8A1E683B7E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
