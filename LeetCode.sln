@@ -101,6 +101,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "66. Plus One", "66. Plus On
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21. Merge Two Sorted Lists", "21. Merge Two Sorted Lists\21. Merge Two Sorted Lists.csproj", "{8F0B943E-B805-4BC1-B634-708BA41DE48D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67. Add Binary", "67. Add Binary\67. Add Binary.csproj", "{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -687,6 +689,18 @@ Global
 		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Release|x64.Build.0 = Release|Any CPU
 		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Release|x86.ActiveCfg = Release|Any CPU
 		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Release|x86.Build.0 = Release|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Debug|x64.Build.0 = Debug|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Debug|x86.Build.0 = Debug|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Release|x64.ActiveCfg = Release|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Release|x64.Build.0 = Release|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Release|x86.ActiveCfg = Release|Any CPU
+		{864D178A-CBDB-46AD-9B6D-7E44403FBCCE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
