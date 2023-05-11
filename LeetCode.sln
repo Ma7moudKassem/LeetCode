@@ -93,11 +93,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26. Remove Duplicates from 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "58. Length of Last Word", "58. Length of Last Word\58. Length of Last Word.csproj", "{B4D30B55-C386-43B3-B526-5EC9946B7E68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{F16DC662-3656-44F9-B43E-CA8A1E683B7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{F16DC662-3656-44F9-B43E-CA8A1E683B7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Find the Index of the First Occurrence in a String", "28. Find the Index of the First Occurrence in a String\28. Find the Index of the First Occurrence in a String.csproj", "{1B921B81-A03E-45B8-B5EF-7DCC0AC99877}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28. Find the Index of the First Occurrence in a String", "28. Find the Index of the First Occurrence in a String\28. Find the Index of the First Occurrence in a String.csproj", "{1B921B81-A03E-45B8-B5EF-7DCC0AC99877}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66. Plus One", "66. Plus One\66. Plus One.csproj", "{D18F4A4B-50F3-4234-95D5-77957361D771}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "66. Plus One", "66. Plus One\66. Plus One.csproj", "{D18F4A4B-50F3-4234-95D5-77957361D771}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21. Merge Two Sorted Lists", "21. Merge Two Sorted Lists\21. Merge Two Sorted Lists.csproj", "{8F0B943E-B805-4BC1-B634-708BA41DE48D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -673,6 +675,18 @@ Global
 		{D18F4A4B-50F3-4234-95D5-77957361D771}.Release|x64.Build.0 = Release|Any CPU
 		{D18F4A4B-50F3-4234-95D5-77957361D771}.Release|x86.ActiveCfg = Release|Any CPU
 		{D18F4A4B-50F3-4234-95D5-77957361D771}.Release|x86.Build.0 = Release|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Debug|x64.Build.0 = Debug|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Debug|x86.Build.0 = Debug|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Release|x64.ActiveCfg = Release|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Release|x64.Build.0 = Release|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Release|x86.ActiveCfg = Release|Any CPU
+		{8F0B943E-B805-4BC1-B634-708BA41DE48D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
