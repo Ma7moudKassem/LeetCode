@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "108. Convert Sorted Array to Binary Search Tree", "108. Convert Sorted Array to Binary Search Tree\108. Convert Sorted Array to Binary Search Tree.vcxproj", "{21324053-52C6-4CB9-9CDE-23DB9DA5D855}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "110. Balanced Binary Tree", "110. Balanced Binary Tree\110. Balanced Binary Tree.vcxproj", "{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{21324053-52C6-4CB9-9CDE-23DB9DA5D855}.Release|x64.Build.0 = Release|x64
 		{21324053-52C6-4CB9-9CDE-23DB9DA5D855}.Release|x86.ActiveCfg = Release|Win32
 		{21324053-52C6-4CB9-9CDE-23DB9DA5D855}.Release|x86.Build.0 = Release|Win32
+		{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}.Debug|x64.ActiveCfg = Debug|x64
+		{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}.Debug|x64.Build.0 = Debug|x64
+		{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}.Debug|x86.Build.0 = Debug|Win32
+		{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}.Release|x64.ActiveCfg = Release|x64
+		{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}.Release|x64.Build.0 = Release|x64
+		{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}.Release|x86.ActiveCfg = Release|Win32
+		{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
