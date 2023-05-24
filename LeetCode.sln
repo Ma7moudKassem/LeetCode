@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "108. Convert Sorted Array t
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "110. Balanced Binary Tree", "110. Balanced Binary Tree\110. Balanced Binary Tree.vcxproj", "{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "111. Minimum Depth of Binary Tree", "111. Minimum Depth of Binary Tree\111. Minimum Depth of Binary Tree.vcxproj", "{EF27F01A-A0F8-4213-B536-CA2FFC679D59}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "112. Path Sum", "112. Path Sum\112. Path Sum.vcxproj", "{53300E7E-2016-492F-BC17-AF980E8DE0D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +35,22 @@ Global
 		{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}.Release|x64.Build.0 = Release|x64
 		{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}.Release|x86.ActiveCfg = Release|Win32
 		{CBA7DB04-DB1D-4880-ABBB-B91F08225B6C}.Release|x86.Build.0 = Release|Win32
+		{EF27F01A-A0F8-4213-B536-CA2FFC679D59}.Debug|x64.ActiveCfg = Debug|x64
+		{EF27F01A-A0F8-4213-B536-CA2FFC679D59}.Debug|x64.Build.0 = Debug|x64
+		{EF27F01A-A0F8-4213-B536-CA2FFC679D59}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF27F01A-A0F8-4213-B536-CA2FFC679D59}.Debug|x86.Build.0 = Debug|Win32
+		{EF27F01A-A0F8-4213-B536-CA2FFC679D59}.Release|x64.ActiveCfg = Release|x64
+		{EF27F01A-A0F8-4213-B536-CA2FFC679D59}.Release|x64.Build.0 = Release|x64
+		{EF27F01A-A0F8-4213-B536-CA2FFC679D59}.Release|x86.ActiveCfg = Release|Win32
+		{EF27F01A-A0F8-4213-B536-CA2FFC679D59}.Release|x86.Build.0 = Release|Win32
+		{53300E7E-2016-492F-BC17-AF980E8DE0D6}.Debug|x64.ActiveCfg = Debug|x64
+		{53300E7E-2016-492F-BC17-AF980E8DE0D6}.Debug|x64.Build.0 = Debug|x64
+		{53300E7E-2016-492F-BC17-AF980E8DE0D6}.Debug|x86.ActiveCfg = Debug|Win32
+		{53300E7E-2016-492F-BC17-AF980E8DE0D6}.Debug|x86.Build.0 = Debug|Win32
+		{53300E7E-2016-492F-BC17-AF980E8DE0D6}.Release|x64.ActiveCfg = Release|x64
+		{53300E7E-2016-492F-BC17-AF980E8DE0D6}.Release|x64.Build.0 = Release|x64
+		{53300E7E-2016-492F-BC17-AF980E8DE0D6}.Release|x86.ActiveCfg = Release|Win32
+		{53300E7E-2016-492F-BC17-AF980E8DE0D6}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
