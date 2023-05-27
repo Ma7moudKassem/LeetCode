@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "121. Best Time to Buy and S
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "125. Valid Palindrome", "125. Valid Palindrome\125. Valid Palindrome.vcxproj", "{2F1054F2-9478-4444-B68D-4B57A22972B0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "136. Single Number", "136. Single Number\136. Single Number.vcxproj", "{947DC09E-6F34-4058-B030-E801CB0C0DE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{2F1054F2-9478-4444-B68D-4B57A22972B0}.Release|x64.Build.0 = Release|x64
 		{2F1054F2-9478-4444-B68D-4B57A22972B0}.Release|x86.ActiveCfg = Release|Win32
 		{2F1054F2-9478-4444-B68D-4B57A22972B0}.Release|x86.Build.0 = Release|Win32
+		{947DC09E-6F34-4058-B030-E801CB0C0DE2}.Debug|x64.ActiveCfg = Debug|x64
+		{947DC09E-6F34-4058-B030-E801CB0C0DE2}.Debug|x64.Build.0 = Debug|x64
+		{947DC09E-6F34-4058-B030-E801CB0C0DE2}.Debug|x86.ActiveCfg = Debug|Win32
+		{947DC09E-6F34-4058-B030-E801CB0C0DE2}.Debug|x86.Build.0 = Debug|Win32
+		{947DC09E-6F34-4058-B030-E801CB0C0DE2}.Release|x64.ActiveCfg = Release|x64
+		{947DC09E-6F34-4058-B030-E801CB0C0DE2}.Release|x64.Build.0 = Release|x64
+		{947DC09E-6F34-4058-B030-E801CB0C0DE2}.Release|x86.ActiveCfg = Release|Win32
+		{947DC09E-6F34-4058-B030-E801CB0C0DE2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
