@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "125. Valid Palindrome", "12
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "136. Single Number", "136. Single Number\136. Single Number.vcxproj", "{947DC09E-6F34-4058-B030-E801CB0C0DE2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "141. Linked List Cycle", "141. Linked List Cycle\141. Linked List Cycle.vcxproj", "{2578987C-EC12-41A7-A98F-68C9E0F7892B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{947DC09E-6F34-4058-B030-E801CB0C0DE2}.Release|x64.Build.0 = Release|x64
 		{947DC09E-6F34-4058-B030-E801CB0C0DE2}.Release|x86.ActiveCfg = Release|Win32
 		{947DC09E-6F34-4058-B030-E801CB0C0DE2}.Release|x86.Build.0 = Release|Win32
+		{2578987C-EC12-41A7-A98F-68C9E0F7892B}.Debug|x64.ActiveCfg = Debug|x64
+		{2578987C-EC12-41A7-A98F-68C9E0F7892B}.Debug|x64.Build.0 = Debug|x64
+		{2578987C-EC12-41A7-A98F-68C9E0F7892B}.Debug|x86.ActiveCfg = Debug|Win32
+		{2578987C-EC12-41A7-A98F-68C9E0F7892B}.Debug|x86.Build.0 = Debug|Win32
+		{2578987C-EC12-41A7-A98F-68C9E0F7892B}.Release|x64.ActiveCfg = Release|x64
+		{2578987C-EC12-41A7-A98F-68C9E0F7892B}.Release|x64.Build.0 = Release|x64
+		{2578987C-EC12-41A7-A98F-68C9E0F7892B}.Release|x86.ActiveCfg = Release|Win32
+		{2578987C-EC12-41A7-A98F-68C9E0F7892B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
