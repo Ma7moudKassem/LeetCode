@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "144. Binary Tree Preorder T
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "145. Binary Tree Postorder Traversal", "145. Binary Tree Postorder Traversal\145. Binary Tree Postorder Traversal.vcxproj", "{68DD147A-5B5E-4990-84D8-B79ED7D4043F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "160. Intersection of Two Linked Lists", "160. Intersection of Two Linked Lists\160. Intersection of Two Linked Lists.vcxproj", "{AE1FA3A4-553F-47BA-8B4A-5A70A2D66464}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{68DD147A-5B5E-4990-84D8-B79ED7D4043F}.Release|x64.Build.0 = Release|x64
 		{68DD147A-5B5E-4990-84D8-B79ED7D4043F}.Release|x86.ActiveCfg = Release|Win32
 		{68DD147A-5B5E-4990-84D8-B79ED7D4043F}.Release|x86.Build.0 = Release|Win32
+		{AE1FA3A4-553F-47BA-8B4A-5A70A2D66464}.Debug|x64.ActiveCfg = Debug|x64
+		{AE1FA3A4-553F-47BA-8B4A-5A70A2D66464}.Debug|x64.Build.0 = Debug|x64
+		{AE1FA3A4-553F-47BA-8B4A-5A70A2D66464}.Debug|x86.ActiveCfg = Debug|Win32
+		{AE1FA3A4-553F-47BA-8B4A-5A70A2D66464}.Debug|x86.Build.0 = Debug|Win32
+		{AE1FA3A4-553F-47BA-8B4A-5A70A2D66464}.Release|x64.ActiveCfg = Release|x64
+		{AE1FA3A4-553F-47BA-8B4A-5A70A2D66464}.Release|x64.Build.0 = Release|x64
+		{AE1FA3A4-553F-47BA-8B4A-5A70A2D66464}.Release|x86.ActiveCfg = Release|Win32
+		{AE1FA3A4-553F-47BA-8B4A-5A70A2D66464}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
