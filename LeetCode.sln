@@ -35,6 +35,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "169. Majority Element", "16
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "171. Excel Sheet Column Number", "171. Excel Sheet Column Number\171. Excel Sheet Column Number.vcxproj", "{99B2F63B-B3BF-4CD8-B98D-46599F0F9C51}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "190. Reverse Bits", "190. Reverse Bits\190. Reverse Bits.vcxproj", "{B14696F7-CC60-4E76-80DC-F267D413601D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,18 @@ Global
 		{99B2F63B-B3BF-4CD8-B98D-46599F0F9C51}.Release|x64.Build.0 = Release|x64
 		{99B2F63B-B3BF-4CD8-B98D-46599F0F9C51}.Release|x86.ActiveCfg = Release|Win32
 		{99B2F63B-B3BF-4CD8-B98D-46599F0F9C51}.Release|x86.Build.0 = Release|Win32
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Debug|Any CPU.Build.0 = Debug|x64
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Debug|x64.ActiveCfg = Debug|x64
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Debug|x64.Build.0 = Debug|x64
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Debug|x86.ActiveCfg = Debug|Win32
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Debug|x86.Build.0 = Debug|Win32
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Release|Any CPU.ActiveCfg = Release|x64
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Release|Any CPU.Build.0 = Release|x64
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Release|x64.ActiveCfg = Release|x64
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Release|x64.Build.0 = Release|x64
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Release|x86.ActiveCfg = Release|Win32
+		{B14696F7-CC60-4E76-80DC-F267D413601D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
