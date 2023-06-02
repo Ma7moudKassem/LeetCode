@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "190. Reverse Bits", "190. R
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "203. Remove Linked List Elements", "203. Remove Linked List Elements\203. Remove Linked List Elements.vcxproj", "{606A1FF5-2590-47B8-A281-FBC9E827ECBD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1768. Merge Strings Alternately (LeetCode 75)", "1768. Merge Strings Alternately (LeetCode 75)\1768. Merge Strings Alternately (LeetCode 75).vcxproj", "{D99736E3-4E56-44AF-B307-5339EC95ECD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -265,6 +267,18 @@ Global
 		{606A1FF5-2590-47B8-A281-FBC9E827ECBD}.Release|x64.Build.0 = Release|x64
 		{606A1FF5-2590-47B8-A281-FBC9E827ECBD}.Release|x86.ActiveCfg = Release|Win32
 		{606A1FF5-2590-47B8-A281-FBC9E827ECBD}.Release|x86.Build.0 = Release|Win32
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Debug|Any CPU.Build.0 = Debug|x64
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Debug|x64.ActiveCfg = Debug|x64
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Debug|x64.Build.0 = Debug|x64
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Debug|x86.ActiveCfg = Debug|Win32
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Debug|x86.Build.0 = Debug|Win32
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Release|Any CPU.ActiveCfg = Release|x64
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Release|Any CPU.Build.0 = Release|x64
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Release|x64.ActiveCfg = Release|x64
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Release|x64.Build.0 = Release|x64
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Release|x86.ActiveCfg = Release|Win32
+		{D99736E3-4E56-44AF-B307-5339EC95ECD0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
