@@ -45,6 +45,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1071. Greatest Common Divis
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1431. Kids With the Greatest Number of Candies (LeetCode 75)", "1431. Kids With the Greatest Number of Candies (LeetCode 75)\1431. Kids With the Greatest Number of Candies (LeetCode 75).vcxproj", "{E9E37C73-6EDD-47B8-8EA1-77F08219B8ED}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "605. Can Place Flowers", "605. Can Place Flowers\605. Can Place Flowers.vcxproj", "{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -307,6 +309,18 @@ Global
 		{E9E37C73-6EDD-47B8-8EA1-77F08219B8ED}.Release|x64.Build.0 = Release|x64
 		{E9E37C73-6EDD-47B8-8EA1-77F08219B8ED}.Release|x86.ActiveCfg = Release|Win32
 		{E9E37C73-6EDD-47B8-8EA1-77F08219B8ED}.Release|x86.Build.0 = Release|Win32
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Debug|Any CPU.Build.0 = Debug|x64
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Debug|x64.ActiveCfg = Debug|x64
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Debug|x64.Build.0 = Debug|x64
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Debug|x86.ActiveCfg = Debug|Win32
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Debug|x86.Build.0 = Debug|Win32
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Release|Any CPU.ActiveCfg = Release|x64
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Release|Any CPU.Build.0 = Release|x64
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Release|x64.ActiveCfg = Release|x64
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Release|x64.Build.0 = Release|x64
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Release|x86.ActiveCfg = Release|Win32
+		{502FCA39-58FF-4FC8-8BC6-F6ED8DEA5A5F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
