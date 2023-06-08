@@ -1,38 +1,31 @@
-#include <vector>
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
-int zeroConut(vector<int>& nums)
+void moveZeroes(vector<int>& nums)
 {
-	int zeroConut = 0;
-	for (auto n : nums)
-		if (n == 0)
-			zeroConut += 1;
-
-	return zeroConut;
-}
-
-void moveZeroes(vector<int>& nums) {
-
-	vector<int> result;
-
-	int k = zeroConut(nums);
-	if (k != 0)
+	int itr = 0;
+	for (int i = 0; i < nums.size(); i++)
 	{
-		for (auto n : nums)
+		if (nums[i] != 0)
 		{
-			if (n != 0)
-				result.push_back(n);
+			nums[itr] = nums[i];
+			itr++;
 		}
-		for (int i = 0; i < k; i++)
-			result.push_back(0);
-
-		nums = result;
+	}
+	while (itr < nums.size())
+	{
+		nums[itr] = 0;
+		itr++;
 	}
 }
+
+//0,1,0,3,12
+// 1,0,0,3,12
+//
 int main()
 {
-	vector<int> nums = { 4,2,4,0,0,3,0,5,1,0 };
+	vector<int> nums = { 0,1,0,3,12 };
 	moveZeroes(nums);
 }

@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "334. Increasing Triplet Sub
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "443. String Compression", "443. String Compression\443. String Compression.vcxproj", "{EEA67399-4598-46F5-A198-69E20A48FD1B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "283. Move Zeroes", "283. Move Zeroes\283. Move Zeroes.vcxproj", "{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{EEA67399-4598-46F5-A198-69E20A48FD1B}.Release|x64.Build.0 = Release|x64
 		{EEA67399-4598-46F5-A198-69E20A48FD1B}.Release|x86.ActiveCfg = Release|Win32
 		{EEA67399-4598-46F5-A198-69E20A48FD1B}.Release|x86.Build.0 = Release|Win32
+		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Debug|x64.ActiveCfg = Debug|x64
+		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Debug|x64.Build.0 = Debug|x64
+		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Debug|x86.ActiveCfg = Debug|Win32
+		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Debug|x86.Build.0 = Debug|Win32
+		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Release|x64.ActiveCfg = Release|x64
+		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Release|x64.Build.0 = Release|x64
+		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Release|x86.ActiveCfg = Release|Win32
+		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
