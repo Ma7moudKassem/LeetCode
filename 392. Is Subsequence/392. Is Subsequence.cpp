@@ -1,5 +1,4 @@
 #include <iostream>
-#include <unordered_map>
 using namespace std;
 
 bool isSubsequence(string s, string t)
@@ -7,12 +6,8 @@ bool isSubsequence(string s, string t)
 	int j = 0;
 	for (int i = 0; i < t.size(); i++)
 	{
-		while (j < s.size())
-		{
-			if (s[j] == t[i])
-				j++;
-			break;
-		}
+		if (s[j] == t[i])
+			j++;
 	}
 
 	return j == s.size();
@@ -22,6 +17,3 @@ int main()
 {
 	cout << isSubsequence("ab", "baac");
 }
-
-//ahbgdc
-//abc
