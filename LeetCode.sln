@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "443. String Compression", "
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "283. Move Zeroes", "283. Move Zeroes\283. Move Zeroes.vcxproj", "{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "392. Is Subsequence", "392. Is Subsequence\392. Is Subsequence.vcxproj", "{7471A80A-AAB0-4D99-AA43-BA5C23804E95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Release|x64.Build.0 = Release|x64
 		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Release|x86.ActiveCfg = Release|Win32
 		{77116ADD-9996-43ED-9C6D-E97EF9FA6D93}.Release|x86.Build.0 = Release|Win32
+		{7471A80A-AAB0-4D99-AA43-BA5C23804E95}.Debug|x64.ActiveCfg = Debug|x64
+		{7471A80A-AAB0-4D99-AA43-BA5C23804E95}.Debug|x64.Build.0 = Debug|x64
+		{7471A80A-AAB0-4D99-AA43-BA5C23804E95}.Debug|x86.ActiveCfg = Debug|Win32
+		{7471A80A-AAB0-4D99-AA43-BA5C23804E95}.Debug|x86.Build.0 = Debug|Win32
+		{7471A80A-AAB0-4D99-AA43-BA5C23804E95}.Release|x64.ActiveCfg = Release|x64
+		{7471A80A-AAB0-4D99-AA43-BA5C23804E95}.Release|x64.Build.0 = Release|x64
+		{7471A80A-AAB0-4D99-AA43-BA5C23804E95}.Release|x86.ActiveCfg = Release|Win32
+		{7471A80A-AAB0-4D99-AA43-BA5C23804E95}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
