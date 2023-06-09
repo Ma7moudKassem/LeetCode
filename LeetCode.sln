@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "283. Move Zeroes", "283. Mo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "392. Is Subsequence", "392. Is Subsequence\392. Is Subsequence.vcxproj", "{7471A80A-AAB0-4D99-AA43-BA5C23804E95}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11. Container With Most Water", "11. Container With Most Water\11. Container With Most Water.vcxproj", "{847DF7EF-EA13-4553-BC83-7A9611560341}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{7471A80A-AAB0-4D99-AA43-BA5C23804E95}.Release|x64.Build.0 = Release|x64
 		{7471A80A-AAB0-4D99-AA43-BA5C23804E95}.Release|x86.ActiveCfg = Release|Win32
 		{7471A80A-AAB0-4D99-AA43-BA5C23804E95}.Release|x86.Build.0 = Release|Win32
+		{847DF7EF-EA13-4553-BC83-7A9611560341}.Debug|x64.ActiveCfg = Debug|x64
+		{847DF7EF-EA13-4553-BC83-7A9611560341}.Debug|x64.Build.0 = Debug|x64
+		{847DF7EF-EA13-4553-BC83-7A9611560341}.Debug|x86.ActiveCfg = Debug|Win32
+		{847DF7EF-EA13-4553-BC83-7A9611560341}.Debug|x86.Build.0 = Debug|Win32
+		{847DF7EF-EA13-4553-BC83-7A9611560341}.Release|x64.ActiveCfg = Release|x64
+		{847DF7EF-EA13-4553-BC83-7A9611560341}.Release|x64.Build.0 = Release|x64
+		{847DF7EF-EA13-4553-BC83-7A9611560341}.Release|x86.ActiveCfg = Release|Win32
+		{847DF7EF-EA13-4553-BC83-7A9611560341}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
