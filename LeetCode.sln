@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2367. Number of Arithmetic 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2697. Lexicographically Smallest Palindrome", "2697. Lexicographically Smallest Palindrome\2697. Lexicographically Smallest Palindrome.vcxproj", "{FD925A74-17F9-452B-B630-2436750E4493}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "832. Flipping an Image", "832. Flipping an Image\832. Flipping an Image.vcxproj", "{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{FD925A74-17F9-452B-B630-2436750E4493}.Release|x64.Build.0 = Release|x64
 		{FD925A74-17F9-452B-B630-2436750E4493}.Release|x86.ActiveCfg = Release|Win32
 		{FD925A74-17F9-452B-B630-2436750E4493}.Release|x86.Build.0 = Release|Win32
+		{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}.Debug|x64.ActiveCfg = Debug|x64
+		{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}.Debug|x64.Build.0 = Debug|x64
+		{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}.Debug|x86.ActiveCfg = Debug|Win32
+		{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}.Debug|x86.Build.0 = Debug|Win32
+		{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}.Release|x64.ActiveCfg = Release|x64
+		{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}.Release|x64.Build.0 = Release|x64
+		{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}.Release|x86.ActiveCfg = Release|Win32
+		{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
