@@ -25,6 +25,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "832. Flipping an Image", "8
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1679. Max Number of K-Sum Pairs", "1679. Max Number of K-Sum Pairs\1679. Max Number of K-Sum Pairs.vcxproj", "{1BAE5966-8520-489D-91CE-C0024D150B88}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2000. Reverse Prefix of Word", "2000. Reverse Prefix of Word\2000. Reverse Prefix of Word.vcxproj", "{7B40996D-E739-4468-90C7-24A01FBE65F9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2108. Find First Palindromic String in the Array", "2108. Find First Palindromic String in the Array\2108. Find First Palindromic String in the Array.vcxproj", "{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +125,22 @@ Global
 		{1BAE5966-8520-489D-91CE-C0024D150B88}.Release|x64.Build.0 = Release|x64
 		{1BAE5966-8520-489D-91CE-C0024D150B88}.Release|x86.ActiveCfg = Release|Win32
 		{1BAE5966-8520-489D-91CE-C0024D150B88}.Release|x86.Build.0 = Release|Win32
+		{7B40996D-E739-4468-90C7-24A01FBE65F9}.Debug|x64.ActiveCfg = Debug|x64
+		{7B40996D-E739-4468-90C7-24A01FBE65F9}.Debug|x64.Build.0 = Debug|x64
+		{7B40996D-E739-4468-90C7-24A01FBE65F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{7B40996D-E739-4468-90C7-24A01FBE65F9}.Debug|x86.Build.0 = Debug|Win32
+		{7B40996D-E739-4468-90C7-24A01FBE65F9}.Release|x64.ActiveCfg = Release|x64
+		{7B40996D-E739-4468-90C7-24A01FBE65F9}.Release|x64.Build.0 = Release|x64
+		{7B40996D-E739-4468-90C7-24A01FBE65F9}.Release|x86.ActiveCfg = Release|Win32
+		{7B40996D-E739-4468-90C7-24A01FBE65F9}.Release|x86.Build.0 = Release|Win32
+		{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}.Debug|x64.ActiveCfg = Debug|x64
+		{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}.Debug|x64.Build.0 = Debug|x64
+		{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}.Debug|x86.ActiveCfg = Debug|Win32
+		{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}.Debug|x86.Build.0 = Debug|Win32
+		{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}.Release|x64.ActiveCfg = Release|x64
+		{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}.Release|x64.Build.0 = Release|x64
+		{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}.Release|x86.ActiveCfg = Release|Win32
+		{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
