@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2697. Lexicographically Sma
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "832. Flipping an Image", "832. Flipping an Image\832. Flipping an Image.vcxproj", "{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1679. Max Number of K-Sum Pairs", "1679. Max Number of K-Sum Pairs\1679. Max Number of K-Sum Pairs.vcxproj", "{1BAE5966-8520-489D-91CE-C0024D150B88}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}.Release|x64.Build.0 = Release|x64
 		{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}.Release|x86.ActiveCfg = Release|Win32
 		{3CF98DEE-09A8-41ED-8581-0195D7AFF58F}.Release|x86.Build.0 = Release|Win32
+		{1BAE5966-8520-489D-91CE-C0024D150B88}.Debug|x64.ActiveCfg = Debug|x64
+		{1BAE5966-8520-489D-91CE-C0024D150B88}.Debug|x64.Build.0 = Debug|x64
+		{1BAE5966-8520-489D-91CE-C0024D150B88}.Debug|x86.ActiveCfg = Debug|Win32
+		{1BAE5966-8520-489D-91CE-C0024D150B88}.Debug|x86.Build.0 = Debug|Win32
+		{1BAE5966-8520-489D-91CE-C0024D150B88}.Release|x64.ActiveCfg = Release|x64
+		{1BAE5966-8520-489D-91CE-C0024D150B88}.Release|x64.Build.0 = Release|x64
+		{1BAE5966-8520-489D-91CE-C0024D150B88}.Release|x86.ActiveCfg = Release|Win32
+		{1BAE5966-8520-489D-91CE-C0024D150B88}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
