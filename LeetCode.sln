@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2000. Reverse Prefix of Wor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2108. Find First Palindromic String in the Array", "2108. Find First Palindromic String in the Array\2108. Find First Palindromic String in the Array.vcxproj", "{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "643. Maximum Average Subarray I", "643. Maximum Average Subarray I\643. Maximum Average Subarray I.vcxproj", "{3A229C38-1B3B-4380-A6F9-9B60451A4848}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}.Release|x64.Build.0 = Release|x64
 		{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}.Release|x86.ActiveCfg = Release|Win32
 		{176DC9B0-44B3-4DC7-84AB-D531C35D5EDB}.Release|x86.Build.0 = Release|Win32
+		{3A229C38-1B3B-4380-A6F9-9B60451A4848}.Debug|x64.ActiveCfg = Debug|x64
+		{3A229C38-1B3B-4380-A6F9-9B60451A4848}.Debug|x64.Build.0 = Debug|x64
+		{3A229C38-1B3B-4380-A6F9-9B60451A4848}.Debug|x86.ActiveCfg = Debug|Win32
+		{3A229C38-1B3B-4380-A6F9-9B60451A4848}.Debug|x86.Build.0 = Debug|Win32
+		{3A229C38-1B3B-4380-A6F9-9B60451A4848}.Release|x64.ActiveCfg = Release|x64
+		{3A229C38-1B3B-4380-A6F9-9B60451A4848}.Release|x64.Build.0 = Release|x64
+		{3A229C38-1B3B-4380-A6F9-9B60451A4848}.Release|x86.ActiveCfg = Release|Win32
+		{3A229C38-1B3B-4380-A6F9-9B60451A4848}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
