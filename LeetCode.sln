@@ -37,6 +37,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1004. Max Consecutive Ones 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold", "1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold\1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold.vcxproj", "{F108CB12-F79F-4D94-9C47-6DC45B4DE096}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1358. Number of Substrings Containing All Three Characters", "1358. Number of Substrings Containing All Three Characters\1358. Number of Substrings Containing All Three Characters.vcxproj", "{2785EDFB-965A-4E6F-8F65-1EDEF525B508}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -181,6 +183,14 @@ Global
 		{F108CB12-F79F-4D94-9C47-6DC45B4DE096}.Release|x64.Build.0 = Release|x64
 		{F108CB12-F79F-4D94-9C47-6DC45B4DE096}.Release|x86.ActiveCfg = Release|Win32
 		{F108CB12-F79F-4D94-9C47-6DC45B4DE096}.Release|x86.Build.0 = Release|Win32
+		{2785EDFB-965A-4E6F-8F65-1EDEF525B508}.Debug|x64.ActiveCfg = Debug|x64
+		{2785EDFB-965A-4E6F-8F65-1EDEF525B508}.Debug|x64.Build.0 = Debug|x64
+		{2785EDFB-965A-4E6F-8F65-1EDEF525B508}.Debug|x86.ActiveCfg = Debug|Win32
+		{2785EDFB-965A-4E6F-8F65-1EDEF525B508}.Debug|x86.Build.0 = Debug|Win32
+		{2785EDFB-965A-4E6F-8F65-1EDEF525B508}.Release|x64.ActiveCfg = Release|x64
+		{2785EDFB-965A-4E6F-8F65-1EDEF525B508}.Release|x64.Build.0 = Release|x64
+		{2785EDFB-965A-4E6F-8F65-1EDEF525B508}.Release|x86.ActiveCfg = Release|Win32
+		{2785EDFB-965A-4E6F-8F65-1EDEF525B508}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
