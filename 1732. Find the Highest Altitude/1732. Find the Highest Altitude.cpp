@@ -1,18 +1,21 @@
 #include <iostream>
 #include <vector>
-#include <algorithm>
 
 using namespace std;
 
 int largestAltitude(vector<int>& gain) {
 
-	for (int i = 1; i < gain.size(); i++)
-		gain[i] += gain[i - 1];
+	int largest = 0;
+
 	gain.insert(gain.begin(), 0);
 
-	sort(gain.begin(), gain.end());
+	for (int i = 1; i < gain.size(); i++)
+	{
+		gain[i] += gain[i - 1];
+		largest = max(largest, gain[i]);
+	}
 
-	return gain[gain.size() - 1];
+	return largest;
 }
 
 int main()
