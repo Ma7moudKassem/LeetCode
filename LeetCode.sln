@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "547. Number of Provinces", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "432. All O`one Data Structure", "432. All O`one Data Structure\432. All O`one Data Structure.vcxproj", "{56A72842-C9CF-42F0-A29B-82FD6D69B78A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1791. Find Center of Star Graph", "1791. Find Center of Star Graph\1791. Find Center of Star Graph.vcxproj", "{75C5D9D6-F513-4F2A-8F84-E54E80EAF475}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -261,6 +263,14 @@ Global
 		{56A72842-C9CF-42F0-A29B-82FD6D69B78A}.Release|x64.Build.0 = Release|x64
 		{56A72842-C9CF-42F0-A29B-82FD6D69B78A}.Release|x86.ActiveCfg = Release|Win32
 		{56A72842-C9CF-42F0-A29B-82FD6D69B78A}.Release|x86.Build.0 = Release|Win32
+		{75C5D9D6-F513-4F2A-8F84-E54E80EAF475}.Debug|x64.ActiveCfg = Debug|x64
+		{75C5D9D6-F513-4F2A-8F84-E54E80EAF475}.Debug|x64.Build.0 = Debug|x64
+		{75C5D9D6-F513-4F2A-8F84-E54E80EAF475}.Debug|x86.ActiveCfg = Debug|Win32
+		{75C5D9D6-F513-4F2A-8F84-E54E80EAF475}.Debug|x86.Build.0 = Debug|Win32
+		{75C5D9D6-F513-4F2A-8F84-E54E80EAF475}.Release|x64.ActiveCfg = Release|x64
+		{75C5D9D6-F513-4F2A-8F84-E54E80EAF475}.Release|x64.Build.0 = Release|x64
+		{75C5D9D6-F513-4F2A-8F84-E54E80EAF475}.Release|x86.ActiveCfg = Release|Win32
+		{75C5D9D6-F513-4F2A-8F84-E54E80EAF475}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
