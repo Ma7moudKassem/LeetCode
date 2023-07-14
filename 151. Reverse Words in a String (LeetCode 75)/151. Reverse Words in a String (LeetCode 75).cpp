@@ -1,12 +1,13 @@
 #include <iostream>
 #include<vector>
+#include <stack>
 
 using namespace std;
 
-vector<string> splitString(string s)
+void splitString(string s, string& ans)
 {
 	string word;
-	vector<string> words;
+	stack<string> words;
 
 	for (int i = 0; i < s.size(); i++)
 	{
@@ -15,34 +16,29 @@ vector<string> splitString(string s)
 		else
 		{
 			if (word != "" && word != " ")
-				words.push_back(word);
+				words.push(word);
 			word = "";
 		}
 	}
 	if (word != "" && word != " ")
-		words.push_back(word);
+		words.push(word);
 
-	return words;
+	while (words.size() > 0)
+	{
+		ans += ans == "" ? ans += words.top() : " " + words.top();
+		words.pop();
+	}
 }
 
 string reverseWords(string s) {
 	string ans;
-	vector<string> words = splitString(s);
-	for (int i = splitString(s).size() - 1; i >= 0; i--)
-	{
-		if (i == 0)
-			ans += words[i];
-		else
-		{
-			ans += words[i];
-			ans.push_back(' ');
-		}
-	}
+
+	splitString(s, ans);
 
 	return ans;
 }
 
 int main()
 {
-	reverseWords("a good        example   lj k mkmkm     ");
+	cout << reverseWords("a good        example   lj k mkmkm     ");
 }
