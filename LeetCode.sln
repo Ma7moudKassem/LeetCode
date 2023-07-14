@@ -77,6 +77,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "17. Letter Combinations of 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "216. Combination Sum III", "216. Combination Sum III\216. Combination Sum III.vcxproj", "{5A0442AD-8C71-47A7-A7F1-60E8A36C3102}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "46. Permutations", "46. Permutations\46. Permutations.vcxproj", "{EF1B98D0-0DA7-4549-8A12-95953624F657}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -381,6 +383,14 @@ Global
 		{5A0442AD-8C71-47A7-A7F1-60E8A36C3102}.Release|x64.Build.0 = Release|x64
 		{5A0442AD-8C71-47A7-A7F1-60E8A36C3102}.Release|x86.ActiveCfg = Release|Win32
 		{5A0442AD-8C71-47A7-A7F1-60E8A36C3102}.Release|x86.Build.0 = Release|Win32
+		{EF1B98D0-0DA7-4549-8A12-95953624F657}.Debug|x64.ActiveCfg = Debug|x64
+		{EF1B98D0-0DA7-4549-8A12-95953624F657}.Debug|x64.Build.0 = Debug|x64
+		{EF1B98D0-0DA7-4549-8A12-95953624F657}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF1B98D0-0DA7-4549-8A12-95953624F657}.Debug|x86.Build.0 = Debug|Win32
+		{EF1B98D0-0DA7-4549-8A12-95953624F657}.Release|x64.ActiveCfg = Release|x64
+		{EF1B98D0-0DA7-4549-8A12-95953624F657}.Release|x64.Build.0 = Release|x64
+		{EF1B98D0-0DA7-4549-8A12-95953624F657}.Release|x86.ActiveCfg = Release|Win32
+		{EF1B98D0-0DA7-4549-8A12-95953624F657}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
