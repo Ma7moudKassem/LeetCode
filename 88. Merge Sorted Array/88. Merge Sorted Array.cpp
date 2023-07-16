@@ -1,22 +1,19 @@
 #include <iostream>
 #include <vector>
+#include <algorithm>
 using namespace std;
-void merge(vector<int>& nums1, int m, vector<int>& nums2, int n)
-{
-	int max = m + n - 1;
-	int i = m - 1;
-	int j = n - 1;
+void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
 
-	while (i >= 0 && j >= 0) 
+	int i = m;
+	int j = 0;
+	while (i < m + n)
 	{
-		if (nums2[j] > nums1[i]) 
-			nums1[max--] = nums2[j--];
-		else 
-			nums1[max--] = nums1[i--];
+		nums1[i] = nums2[j];
+		i++;
+		j++;
 	}
 
-	while (j >= 0)
-		nums1[max--] = nums2[j--];
+	sort(nums1.begin(), nums1.end());
 }
 
 int main()
