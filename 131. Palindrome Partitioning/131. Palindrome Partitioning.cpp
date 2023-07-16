@@ -12,6 +12,7 @@ bool isPalndrome(string s, int left, int right)
 
 	return true;
 }
+
 void backtarck(vector<vector<string>>& ans, vector<string>& res, string& s, int index)
 {
 	if (index == s.size())
@@ -30,6 +31,7 @@ void backtarck(vector<vector<string>>& ans, vector<string>& res, string& s, int 
 		}
 	}
 }
+
 vector<vector<string>> partition(string s) {
 	vector<vector<string>> ans;
 	vector<string> res;
