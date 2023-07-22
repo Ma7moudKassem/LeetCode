@@ -1,27 +1,26 @@
 #include <iostream>
-#include <vector>
+#include <unordered_map>
 using namespace std;
 
-int ans = 0;
-vector<int> t = { 0,1,1,2 };
 
-void dp(int n)
-{
-	ans = 0;
-	for (int i = n - 1; i >= n - 3; i--)
-		ans += t[i];
+unordered_map<int, int> dp;
 
-	t.push_back(ans);
-}
 int tribonacci(int n) {
 
-	if (n < 4)
-		return t[n];
+	if (n < 3)
+		return n == 0 ? 0 : 1;
 
-	for (int i = 4; i <= n; i++)
-		dp(i);
+	int num1 = 0, num2 = 1, num3 = 1;
 
-	return ans;
+	for (int i = 0; i < n - 2; i++)
+	{
+		int temp = num1 + num2 + num3;
+		num1 = num2;
+		num2 = num3;
+		num3 = temp;
+	}
+
+	return num3;
 }
 
 int main()
