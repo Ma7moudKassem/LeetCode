@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "746. Min Cost Climbing Stai
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "790. Domino and Tromino Tiling", "790. Domino and Tromino Tiling\790. Domino and Tromino Tiling.vcxproj", "{D4BEA183-EED4-4AB4-A97B-DD04E1FC17BA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "62. Unique Paths", "62. Unique Paths\62. Unique Paths.vcxproj", "{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{D4BEA183-EED4-4AB4-A97B-DD04E1FC17BA}.Release|x64.Build.0 = Release|x64
 		{D4BEA183-EED4-4AB4-A97B-DD04E1FC17BA}.Release|x86.ActiveCfg = Release|Win32
 		{D4BEA183-EED4-4AB4-A97B-DD04E1FC17BA}.Release|x86.Build.0 = Release|Win32
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Debug|Any CPU.Build.0 = Debug|x64
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Debug|x64.ActiveCfg = Debug|x64
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Debug|x64.Build.0 = Debug|x64
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Debug|x86.ActiveCfg = Debug|Win32
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Debug|x86.Build.0 = Debug|Win32
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Release|Any CPU.ActiveCfg = Release|x64
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Release|Any CPU.Build.0 = Release|x64
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Release|x64.ActiveCfg = Release|x64
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Release|x64.Build.0 = Release|x64
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Release|x86.ActiveCfg = Release|Win32
+		{0DB9FC4D-29F1-42A6-AB33-978E473CA92E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
