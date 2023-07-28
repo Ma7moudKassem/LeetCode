@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "208. Implement Trie (Prefix
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1268. Search Suggestions System", "1268. Search Suggestions System\1268. Search Suggestions System.vcxproj", "{1EDE1263-5610-4A52-90F2-2066C834F2D9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "435. Non-overlapping Intervals", "435. Non-overlapping Intervals\435. Non-overlapping Intervals.vcxproj", "{8C4E819F-60FF-4C86-8089-38565C7D4A8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{1EDE1263-5610-4A52-90F2-2066C834F2D9}.Release|x64.Build.0 = Release|x64
 		{1EDE1263-5610-4A52-90F2-2066C834F2D9}.Release|x86.ActiveCfg = Release|Win32
 		{1EDE1263-5610-4A52-90F2-2066C834F2D9}.Release|x86.Build.0 = Release|Win32
+		{8C4E819F-60FF-4C86-8089-38565C7D4A8E}.Debug|x64.ActiveCfg = Debug|x64
+		{8C4E819F-60FF-4C86-8089-38565C7D4A8E}.Debug|x64.Build.0 = Debug|x64
+		{8C4E819F-60FF-4C86-8089-38565C7D4A8E}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C4E819F-60FF-4C86-8089-38565C7D4A8E}.Debug|x86.Build.0 = Debug|Win32
+		{8C4E819F-60FF-4C86-8089-38565C7D4A8E}.Release|x64.ActiveCfg = Release|x64
+		{8C4E819F-60FF-4C86-8089-38565C7D4A8E}.Release|x64.Build.0 = Release|x64
+		{8C4E819F-60FF-4C86-8089-38565C7D4A8E}.Release|x86.ActiveCfg = Release|Win32
+		{8C4E819F-60FF-4C86-8089-38565C7D4A8E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
