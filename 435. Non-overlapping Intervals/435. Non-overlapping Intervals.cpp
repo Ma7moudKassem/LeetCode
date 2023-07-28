@@ -20,7 +20,7 @@ int eraseOverlapIntervals(vector<vector<int>>& intervals)
 		int end = interval[1];
 
 		if (start >= k)
-			k = start;
+			k = end;
 		else
 			count++;
 	}
