@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "452. Minimum Number of Arro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "139. Word Break", "139. Word Break\139. Word Break.vcxproj", "{0BA024C2-57A1-476A-A040-2072BF78AC67}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "739. Daily Temperatures", "739. Daily Temperatures\739. Daily Temperatures.vcxproj", "{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{0BA024C2-57A1-476A-A040-2072BF78AC67}.Release|x64.Build.0 = Release|x64
 		{0BA024C2-57A1-476A-A040-2072BF78AC67}.Release|x86.ActiveCfg = Release|Win32
 		{0BA024C2-57A1-476A-A040-2072BF78AC67}.Release|x86.Build.0 = Release|Win32
+		{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}.Debug|x64.ActiveCfg = Debug|x64
+		{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}.Debug|x64.Build.0 = Debug|x64
+		{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}.Debug|x86.Build.0 = Debug|Win32
+		{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}.Release|x64.ActiveCfg = Release|x64
+		{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}.Release|x64.Build.0 = Release|x64
+		{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}.Release|x86.ActiveCfg = Release|Win32
+		{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
