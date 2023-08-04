@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "139. Word Break", "139. Wor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "739. Daily Temperatures", "739. Daily Temperatures\739. Daily Temperatures.vcxproj", "{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "901. Online Stock Span", "901. Online Stock Span\901. Online Stock Span.vcxproj", "{144A582B-2663-4EA8-9013-4C62AD5F069F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}.Release|x64.Build.0 = Release|x64
 		{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}.Release|x86.ActiveCfg = Release|Win32
 		{6172DE0F-E8E1-4255-BD8A-A6A49E2E76BF}.Release|x86.Build.0 = Release|Win32
+		{144A582B-2663-4EA8-9013-4C62AD5F069F}.Debug|x64.ActiveCfg = Debug|x64
+		{144A582B-2663-4EA8-9013-4C62AD5F069F}.Debug|x64.Build.0 = Debug|x64
+		{144A582B-2663-4EA8-9013-4C62AD5F069F}.Debug|x86.ActiveCfg = Debug|Win32
+		{144A582B-2663-4EA8-9013-4C62AD5F069F}.Debug|x86.Build.0 = Debug|Win32
+		{144A582B-2663-4EA8-9013-4C62AD5F069F}.Release|x64.ActiveCfg = Release|x64
+		{144A582B-2663-4EA8-9013-4C62AD5F069F}.Release|x64.Build.0 = Release|x64
+		{144A582B-2663-4EA8-9013-4C62AD5F069F}.Release|x86.ActiveCfg = Release|Win32
+		{144A582B-2663-4EA8-9013-4C62AD5F069F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
