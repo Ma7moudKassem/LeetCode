@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "733. Flood Fill", "733. Flo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "235. Lowest Common Ancestor of a Binary Search Tree", "235. Lowest Common Ancestor of a Binary Search Tree\235. Lowest Common Ancestor of a Binary Search Tree.vcxproj", "{7373F92E-6B22-4010-A888-7DBD3C45B4C9}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "232. Implement Queue using Stacks", "232. Implement Queue using Stacks\232. Implement Queue using Stacks.vcxproj", "{D8D2D089-7655-4A66-B156-FFF5B18C878E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -311,6 +313,14 @@ Global
 		{7373F92E-6B22-4010-A888-7DBD3C45B4C9}.Release|x64.Build.0 = Release|x64
 		{7373F92E-6B22-4010-A888-7DBD3C45B4C9}.Release|x86.ActiveCfg = Release|Win32
 		{7373F92E-6B22-4010-A888-7DBD3C45B4C9}.Release|x86.Build.0 = Release|Win32
+		{D8D2D089-7655-4A66-B156-FFF5B18C878E}.Debug|x64.ActiveCfg = Debug|x64
+		{D8D2D089-7655-4A66-B156-FFF5B18C878E}.Debug|x64.Build.0 = Debug|x64
+		{D8D2D089-7655-4A66-B156-FFF5B18C878E}.Debug|x86.ActiveCfg = Debug|Win32
+		{D8D2D089-7655-4A66-B156-FFF5B18C878E}.Debug|x86.Build.0 = Debug|Win32
+		{D8D2D089-7655-4A66-B156-FFF5B18C878E}.Release|x64.ActiveCfg = Release|x64
+		{D8D2D089-7655-4A66-B156-FFF5B18C878E}.Release|x64.Build.0 = Release|x64
+		{D8D2D089-7655-4A66-B156-FFF5B18C878E}.Release|x86.ActiveCfg = Release|Win32
+		{D8D2D089-7655-4A66-B156-FFF5B18C878E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
