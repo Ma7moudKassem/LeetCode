@@ -65,6 +65,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "235. Lowest Common Ancestor
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "232. Implement Queue using Stacks", "232. Implement Queue using Stacks\232. Implement Queue using Stacks.vcxproj", "{D8D2D089-7655-4A66-B156-FFF5B18C878E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "383. Ransom Note", "383. Ransom Note\383. Ransom Note.vcxproj", "{37D0E00B-00EE-4BFC-8D42-BC04112A97AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -321,6 +323,14 @@ Global
 		{D8D2D089-7655-4A66-B156-FFF5B18C878E}.Release|x64.Build.0 = Release|x64
 		{D8D2D089-7655-4A66-B156-FFF5B18C878E}.Release|x86.ActiveCfg = Release|Win32
 		{D8D2D089-7655-4A66-B156-FFF5B18C878E}.Release|x86.Build.0 = Release|Win32
+		{37D0E00B-00EE-4BFC-8D42-BC04112A97AA}.Debug|x64.ActiveCfg = Debug|x64
+		{37D0E00B-00EE-4BFC-8D42-BC04112A97AA}.Debug|x64.Build.0 = Debug|x64
+		{37D0E00B-00EE-4BFC-8D42-BC04112A97AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{37D0E00B-00EE-4BFC-8D42-BC04112A97AA}.Debug|x86.Build.0 = Debug|Win32
+		{37D0E00B-00EE-4BFC-8D42-BC04112A97AA}.Release|x64.ActiveCfg = Release|x64
+		{37D0E00B-00EE-4BFC-8D42-BC04112A97AA}.Release|x64.Build.0 = Release|x64
+		{37D0E00B-00EE-4BFC-8D42-BC04112A97AA}.Release|x86.ActiveCfg = Release|Win32
+		{37D0E00B-00EE-4BFC-8D42-BC04112A97AA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
