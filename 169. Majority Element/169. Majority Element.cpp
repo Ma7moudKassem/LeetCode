@@ -5,22 +5,19 @@ using namespace std;
 
 int majorityElement(vector<int>& nums) {
 
-	unordered_map<int, int> map;
-	for (auto n : nums)
-		map[n]++;
-
-	int max = 0;
-	int result = 0;
-	for (auto m : map)
+	int count = 0, inr = 0;
+	for (int num : nums)
 	{
-		if (m.second > max)
-		{
-			max = m.second;
-			result = m.first;
-		}
-	}
+		if (count == 0)
+			inr = num;
 
-	return result;
+		if (inr == num)
+			count++;
+		else
+			count--;
+	}
+	
+	return count;
 }
 
 int main()
