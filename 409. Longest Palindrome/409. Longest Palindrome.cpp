@@ -1,10 +1,9 @@
 #include <iostream>
 #include <vector>
-#include <unordered_map>
 using namespace std;
 
 int longestPalindrome(string s) {
-	vector<char, int> arr(128);
+	vector<int> arr(128);
 
 	for (auto c : s)
 		arr[c]++;
