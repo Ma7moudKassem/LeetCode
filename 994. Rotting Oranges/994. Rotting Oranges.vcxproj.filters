@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Sliding Window.cpp">
+    <ClCompile Include="994. Rotting Oranges.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
