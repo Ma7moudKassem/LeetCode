@@ -14,4 +14,5 @@ int numberOfEmployeesWhoMetTarget(vector<int>& hours, int target) {
 
 int main()
 {
+
 }
