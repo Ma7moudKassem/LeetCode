@@ -7,17 +7,20 @@ using namespace std;
 // p-w-w-k-e-w
 
 int lengthOfLongestSubstring(string s) {
-    int n = int(s.length()), res = 0;
-    unordered_map<char, int> mp;
+	unordered_map<char, int> map;
 
-    for (int j = 0, i = 0; j < n; j++) {
-        if (mp[s[j]] > 0) {
-            i = max(mp[s[j]], i);
-        }
-        res = max(res, j - i + 1);
-        mp[s[j]] = j + 1;
-    }
-    return res;
+	int j = 0, ans = 0;
+	for (int i = 0; i < s.size(); i++)
+	{
+		if (map[s[i]] > 0)
+			j = max(j, map[s[i]]);
+
+		ans = max(ans, i - j + 1);
+
+		map[s[i]] = i + 1;
+	}
+
+	return ans;
 }
 
 int main()
